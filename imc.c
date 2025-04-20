@@ -10,7 +10,6 @@ int main(){
     if (altura>10)      //Verificação se o a inserção foi em cm ou m. Cálculo do imc
         {alt=altura/100;
         imc=peso/(alt*alt);}
-    
     else 
         {imc=peso/(altura*altura);}
 
