@@ -16,3 +16,5 @@ da banda, que tipo de música ela toca, o número de integrantes e em que posiç
 do ranking ela está.
 
 imc: Algoritmo que pede peso e altura para calcular o imc e o classifica.
+
+Calculadora_Switch: Algoritmo que pede o tipo de cálculo, o realiza e devolve o resultado.
