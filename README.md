@@ -15,3 +15,4 @@ Struct: Algoritmo que irá representar bandas de música. Essa estrutura tem o n
 da banda, que tipo de música ela toca, o número de integrantes e em que posição 
 do ranking ela está.
 
+imc: Algoritmo que pede peso e altura para calcular o imc e o classifica.
